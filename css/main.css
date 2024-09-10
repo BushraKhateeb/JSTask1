@@ -1,0 +1,21 @@
+.largerFontSize{
+    font-size: larger;
+}
+.smallerFontSize{
+    font-size: smaller;
+}
+.all{
+    margin: auto;
+    width: 300px;
+    padding: 50px 50px;
+    background-color: teal;
+    border: white;
+    text-align: center;
+    color: beige;
+}
+button{
+    color: teal;
+    font-size: 20px;
+    width: 50px;
+    padding: 10px 20px;
+}
